@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: 
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: C1E91503-E91F-4EEA-A032-D98D80CDD00A
+// IDECodeSnippetIdentifier: EB623BCC-5C75-414B-BB2A-99C5170625F0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)add<#CapitalizedRelationshipName#>Object:(<#relationship destination class#> *)value
 {    
     NSSet *changedObjects = [NSSet setWithObject:value];
