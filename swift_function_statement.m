@@ -2,11 +2,11 @@
 // Encapsulates logic and behavior.
 //
 // IDECodeSnippetCompletionPrefix: func
-// IDECodeSnippetCompletionScopes: [ClassImplementation,TopLevel]
-// IDECodeSnippetIdentifier: 42F0D4EA-A806-40A8-831E-4E7B8A9998C6
+// IDECodeSnippetCompletionScopes: [TopLevel,ClassImplementation]
+// IDECodeSnippetIdentifier: 70CAC849-3C87-4492-8A74-671269DF2D76
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 func <#name#>(<#parameters#>) -> <#return type#> {
     <#function body#>
 }
