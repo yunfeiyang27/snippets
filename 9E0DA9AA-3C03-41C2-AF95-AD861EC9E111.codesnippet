@@ -2,18 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>using namespace</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self.navigationItem.title = @"我的关注";</string>
+	<string>using namespace &lt;#namespace name#&gt;
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>919B1B27-9760-4ABF-B0F1-B723068EDB3A</string>
+	<string>9E0DA9AA-3C03-41C2-AF95-AD861EC9E111</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Bring the members of a namespace into scope.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ACCodeSnippetRepositoryPlugin</string>
+	<string>C++ Using Directive</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

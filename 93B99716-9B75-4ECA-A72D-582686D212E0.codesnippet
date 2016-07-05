@@ -2,18 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>class</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self.navigationItem.title = @"我的关注";</string>
+	<string>class &lt;#name#&gt;: &lt;#super class#&gt; {
+    &lt;#code#&gt;
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>919B1B27-9760-4ABF-B0F1-B723068EDB3A</string>
+	<string>93B99716-9B75-4ECA-A72D-582686D212E0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Encapsulates state and behavior.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ACCodeSnippetRepositoryPlugin</string>
+	<string>Swift Subclass</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

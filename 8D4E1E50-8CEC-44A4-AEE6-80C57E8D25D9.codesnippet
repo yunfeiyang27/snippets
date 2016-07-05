@@ -2,18 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>forin</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self.navigationItem.title = @"我的关注";</string>
+	<string>for (&lt;#type *object#&gt; in &lt;#collection#&gt;) {
+    &lt;#statements#&gt;
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>919B1B27-9760-4ABF-B0F1-B723068EDB3A</string>
+	<string>8D4E1E50-8CEC-44A4-AEE6-80C57E8D25D9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Enumerate an object that conforms to NSFastEnumeration.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ACCodeSnippetRepositoryPlugin</string>
+	<string>Objective-C Fast Enumeration</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

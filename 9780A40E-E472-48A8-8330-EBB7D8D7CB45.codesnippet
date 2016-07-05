@@ -2,18 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>switch</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self.navigationItem.title = @"我的关注";</string>
+	<string>switch &lt;#value#&gt; {
+    case &lt;#pattern#&gt;:
+        &lt;#code#&gt;
+    default:
+        &lt;#code#&gt;
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>919B1B27-9760-4ABF-B0F1-B723068EDB3A</string>
+	<string>9780A40E-E472-48A8-8330-EBB7D8D7CB45</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Chooses a code path based on value.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ACCodeSnippetRepositoryPlugin</string>
+	<string>Swift Switch Statement</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

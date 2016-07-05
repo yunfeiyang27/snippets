@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: if
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 96BE2AB2-0681-49B0-8F31-BF026394CA92
+// IDECodeSnippetIdentifier: FE1B0FB7-BE4E-417B-872A-9F27B124572C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 if <#condition#> {
     <#code#>
 }
