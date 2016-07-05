@@ -2,11 +2,11 @@
 // The conjunction of a set of values.
 //
 // IDECodeSnippetCompletionPrefix: struct
-// IDECodeSnippetCompletionScopes: [ClassImplementation,TopLevel]
-// IDECodeSnippetIdentifier: 1DD6A21D-566D-4FE8-A744-2955BAB82B2F
+// IDECodeSnippetCompletionScopes: [TopLevel,ClassImplementation]
+// IDECodeSnippetIdentifier: 32672226-BAFB-4F4B-9C37-DAE34D1624F4
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 struct <#name#> {
     <#fields#>
 }
